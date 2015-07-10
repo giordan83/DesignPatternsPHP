@@ -2,9 +2,22 @@
 
 [![Build Status](https://travis-ci.org/domnikl/DesignPatternsPHP.png?branch=master)](https://travis-ci.org/domnikl/DesignPatternsPHP)
 
+[Read the Docs of DesignPatternsPHP](http://designpatternsphp.readthedocs.org)
+or [Download as PDF/Epub](https://readthedocs.org/projects/designpatternsphp/downloads/)
+
 This is a collection of known design patterns and some sample code how to implement them in PHP. Every pattern has a small list of examples (most of them from Zend Framework, Symfony2 or Doctrine2 as I'm most familiar with this software).
 
 I think the problem with patterns is that often people do know them but don't know when to apply which.
+
+## Installation
+You should look at and run the tests to see what happens in the example.
+To do this, you should install dependencies with `Composer` first:
+
+```bash
+$ composer install
+```
+
+Read more about how to install and use `Composer` on your local machine [here](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx).
 
 ## Patterns
 
